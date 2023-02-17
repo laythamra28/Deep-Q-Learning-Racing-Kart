@@ -10,6 +10,6 @@ objective of this project is to teach the agent, the kart, to drive around the t
 
 1. Clone this repo 
 2. Make sure all files are in the same directory when running
-3. Run the main_practice.py
+3. Run the main_practice.ipynb
 
 
