@@ -14,4 +14,7 @@ objective of this project is to teach the agent, the kart, to drive around the t
 
 
 
-<video src='m' width=180/>
+
+https://user-images.githubusercontent.com/119756018/219786359-966ac4dc-c9ca-43e0-a1a7-a53271cdea49.mp4
+
+
